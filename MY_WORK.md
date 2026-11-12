@@ -32,17 +32,17 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [raneem saad altamimi] |
+| **Student ID** | [445052093] |
+| **University Email** | 445052093@std.psau.edu.sa |
+| **GitHub Username** | [RaneemAltamimi] |
+| **Repository Link** | https://github.com/RaneemAltamimi/OS-Assignment3-Raneem-Altamimi |
  
 ---
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [[Paste your video link here](https://github.com/RaneemAltamimi/OS-Assignment3-Raneem-Altamimi/edit/main/MY_WORK.md)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
